@@ -43,7 +43,7 @@ git init
 git add .
 git commit -m "Week 1-2: Foundation - calendar integration + class schedule"
 git branch -M main
-git remote add origin https://github.com/<your-username>/student-calendar-agent.git
+git remote add origin https://github.com/<Muskan23wh1a05a2>/student-calendar-agent.git
 git push -u origin main
 ```
 
